@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         var lenovo = new Product("Lenovo2", 2000L);
-        var hp = new Product("HP", 3000L);
+        var hp = new Product("HP2", 3000L);
 
         var notebooks = List.of(lenovo, hp);
 
